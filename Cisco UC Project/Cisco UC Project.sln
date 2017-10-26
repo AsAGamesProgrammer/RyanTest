@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2017
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Cisco UC Project", "Cisco UC Project.csproj", "{01BCC804-D0CA-3A0E-2423-F242FBB1A18F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Cisco UC Project.Editor", "Cisco UC Project.Editor.csproj", "{94715CBD-2B82-AB4C-FF82-20411B43CA8B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{01BCC804-D0CA-3A0E-2423-F242FBB1A18F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{01BCC804-D0CA-3A0E-2423-F242FBB1A18F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{01BCC804-D0CA-3A0E-2423-F242FBB1A18F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{01BCC804-D0CA-3A0E-2423-F242FBB1A18F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{94715CBD-2B82-AB4C-FF82-20411B43CA8B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{94715CBD-2B82-AB4C-FF82-20411B43CA8B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{94715CBD-2B82-AB4C-FF82-20411B43CA8B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{94715CBD-2B82-AB4C-FF82-20411B43CA8B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
